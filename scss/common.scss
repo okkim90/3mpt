@@ -807,9 +807,13 @@ body {
                         }
                     }
                 }
+                .date_info {
+                    font-size: 1.5vh;
+                    margin-top: 3vh;
+                }
                 .info_list {
 
-                    margin-top: 3vh;
+                    margin-top: 1vh;
                     padding: 1vh 2.5vh;
                     border: 3px solid $color1;
                     border-radius: 3vh;

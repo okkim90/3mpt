@@ -379,7 +379,9 @@ body.main { height: 100%; }
 
 .sc_3 .big3 .txt_box .desc_list li::before { content: ''; position: absolute; width: 0.5vh; height: 0.5vh; background-color: #6667AB; border-radius: 50%; left: 0; top: 1vh; }
 
-.sc_3 .big3 .txt_box .info_list { margin-top: 3vh; padding: 1vh 2.5vh; border: 3px solid #6667AB; border-radius: 3vh; display: table; font-size: 2.4vh; line-height: 1.3; }
+.sc_3 .big3 .txt_box .date_info { font-size: 1.5vh; margin-top: 3vh; }
+
+.sc_3 .big3 .txt_box .info_list { margin-top: 1vh; padding: 1vh 2.5vh; border: 3px solid #6667AB; border-radius: 3vh; display: table; font-size: 2.4vh; line-height: 1.3; }
 
 .sc_3 .big3 .txt_box .info_list li { display: table-row; }
 
